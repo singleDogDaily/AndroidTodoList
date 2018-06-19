@@ -1,2 +1,8 @@
 # AndroidTodoList
-Android  to do list
+
+### To Do
+
+- [ ] Kotlin
+- [ ] RxJava
+- [ ] Sceneform
+- [ ] Android Jetpack
